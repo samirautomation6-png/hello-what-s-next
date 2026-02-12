@@ -1,0 +1,38 @@
+{
+  "teams": [
+    {
+      "id": "team1",
+      "name": "Ocean Dragon",
+      "coach": "Wassim",
+      "logo": "",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    },
+    {
+      "id": "team2",
+      "name": "Harbor United",
+      "coach": "Yassine",
+      "logo": "",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    }
+  ],
+  "players": [],
+  "matches": [],
+  "archives": [],
+  "cups": [],
+  "settings": {
+    "maxMatches": 50,
+    "maxTeams": 2
+  }
+}
